@@ -13,6 +13,6 @@ This is an open source and collaborative project that aims to create a formal (a
 
 We want to develop this missing design definition through inclusive and collaborative methods rooted in public discussion, workshopping and sharing different understandings of this field to ensure such a definition will 1) adequately cover all the different meanings and applications of p2p application design and 2) meet all the needs of the user communities.
 
-This type of collaborative design is a component of the Open Knowledge, Open Design, and Free/Open/Libre Software movements.
+This type of collaborative design is a component of the Open Knowledge, Open Design, and Free/Libre/Open Software movements.
 
 You can read more about the project here. Please feel free to browse the details about becoming a member here and introduce yourself on our discussion list so we can get you involved. The archives of the discussion con be found here.
