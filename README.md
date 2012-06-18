@@ -16,3 +16,21 @@ We want to develop this missing design definition through inclusive and collabor
 This type of collaborative design is a component of the Open Knowledge, Open Design, and Free/Libre/Open Software movements.
 
 You can read more about the project here. Please feel free to browse the details about becoming a member here and introduce yourself on our discussion list so we can get you involved. The archives of the discussion con be found here.
+
+other.definitions folder
+
+Here you can find some existing Open Definitions (formatted as Markdown) so Github will give a formatted preview directly. We can start by commenting the existing definitions by opening issues, in order to understand what can be taken from them and what can be improved or added.
+
+peerpoint.design_definition folder
+
+The Open Design Definition will be developed and accessed here. Nothing here at the moment... we need your collaboration! :)
+
+meta folder
+
+This is where you can learn how this collaborative process works: at the same time, it is open source, so you can access it, comment it with issues, discuss on the mailing list, modify it when necessary and so on. Three components define the process: the storyboard (that explains the story as a comic in an easy way), the participation matrix (that explains the whole process and how participation is structured), the activity design (that explains the whole activity in more detail, including tools, rules, connections, and so on). You can find them in the meta folder with more information about understanding them and editing them. As an example, here's the plan for the whole process (the participation matrix:
+
+License
+
+The documentation of this project and the meta folder are released under a Creative Commons Attribution 3.0 Unported License. The PeerPoint Design Definition still does not have a defined license as yet, and we want to decide together its license. Each definition in the open.design_definition folder has its own license and the link is included in the file.
+
+Creative Commons License
